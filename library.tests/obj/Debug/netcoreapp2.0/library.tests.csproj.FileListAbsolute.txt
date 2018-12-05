@@ -1,0 +1,15 @@
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library.tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library.tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library.tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library.tests/bin/Debug/netcoreapp2.0/library.tests.deps.json
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library.tests/bin/Debug/netcoreapp2.0/library.tests.runtimeconfig.json
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library.tests/bin/Debug/netcoreapp2.0/library.tests.runtimeconfig.dev.json
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library.tests/bin/Debug/netcoreapp2.0/library.tests.dll
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library.tests/bin/Debug/netcoreapp2.0/library.tests.pdb
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library.tests/bin/Debug/netcoreapp2.0/library.dll
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library.tests/bin/Debug/netcoreapp2.0/library.pdb
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library.tests/obj/Debug/netcoreapp2.0/library.tests.csproj.CoreCompileInputs.cache
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library.tests/obj/Debug/netcoreapp2.0/library.tests.AssemblyInfoInputs.cache
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library.tests/obj/Debug/netcoreapp2.0/library.tests.AssemblyInfo.cs
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library.tests/obj/Debug/netcoreapp2.0/library.tests.dll
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library.tests/obj/Debug/netcoreapp2.0/library.tests.pdb

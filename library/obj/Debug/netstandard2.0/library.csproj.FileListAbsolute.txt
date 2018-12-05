@@ -1,0 +1,8 @@
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library/bin/Debug/netstandard2.0/library.deps.json
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library/bin/Debug/netstandard2.0/library.dll
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library/bin/Debug/netstandard2.0/library.pdb
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library/obj/Debug/netstandard2.0/library.csproj.CoreCompileInputs.cache
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library/obj/Debug/netstandard2.0/library.AssemblyInfoInputs.cache
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library/obj/Debug/netstandard2.0/library.AssemblyInfo.cs
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library/obj/Debug/netstandard2.0/library.dll
+/Users/Kelemen/Desktop/interviews/practice/EventStreaming/library/obj/Debug/netstandard2.0/library.pdb
